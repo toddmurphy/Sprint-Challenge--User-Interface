@@ -233,6 +233,13 @@ footer nav a {
 }
 
 /* HOME STYLES */
+.button {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 /* NAVIGATION STYLES */
 nav a {
   justify-content: flex-end;
@@ -250,10 +257,23 @@ nav a {
 .container-about-page {
   margin-top: 50px;
 }
+
+.image-spacing {
+  margin-bottom: 20px;
+}
 /* FEATURES SECTION STYLES HERE  */
 .features {
   margin-top: 50px;
+  width: 900px;
+  display: flex;
+  flex-wrap: wrap;
 }
+
+.features-box {
+  width: 400px;
+  height: 500px;
+}
+
 /* LETS WORK TOGETHER STYLES HERE */
 .work-together {
   padding: 50px 0px;
