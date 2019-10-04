@@ -250,12 +250,12 @@ nav a {
 
 /* HERO MAIN IMAGE STYLES */
 .hero-main {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 /* ABOUT SECTION STYLES HERE */
 .container-about-page {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .bottom-border {
   border-bottom: 1px dashed black;
