@@ -257,6 +257,9 @@ nav a {
 .container-about-page {
   margin-top: 50px;
 }
+.bottom-border {
+  border-bottom: 1px dashed black;
+}
 
 .image-spacing {
   margin-bottom: 20px;
@@ -272,6 +275,8 @@ nav a {
 .features-box {
   width: 400px;
   height: 500px;
+  border-bottom: 1px dashed black;
+  justify-content: space-between;
 }
 
 /* LETS WORK TOGETHER STYLES HERE */
