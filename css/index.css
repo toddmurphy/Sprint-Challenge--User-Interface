@@ -245,10 +245,17 @@ nav a {
 .hero-main {
   margin-top: 50px;
 }
-/* FUTURE STYLES */
 
-/* BOXES STYLES */
-
-/* PLANETS STYLES */
-
-/* FOOTER STYLES */
+/* ABOUT SECTION STYLES HERE */
+.container-about-page {
+  margin-top: 50px;
+}
+/* FEATURES SECTION STYLES HERE  */
+.features {
+  margin-top: 50px;
+}
+/* LETS WORK TOGETHER STYLES HERE */
+.work-together {
+  padding: 50px 0px;
+}
+/* ABOUT FOOTER STYLES HERE  */
