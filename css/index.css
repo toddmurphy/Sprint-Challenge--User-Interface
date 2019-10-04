@@ -250,12 +250,17 @@ nav a {
 
 /* BOXES COLOR STYLES */
 
-.boxes .box .box1 {
+/* .boxes .box .box1 {
   background-color: teal;
+} */
+.middle-content .boxes .box .box1 {
+  background: purple;
+  border: 1px solid blue;
 }
 
 .box2 {
-  background-color: gold;
+  background: gold;
+  border: 1px solid red;
 }
 
 .box3 {
@@ -287,7 +292,46 @@ nav a {
 }
 
 .box10 {
-  background-color: dodgerblue;
+}
+
+#b1 {
+  background: red;
+}
+
+#b2 {
+  background: gold;
+}
+
+#b3 {
+  background: cadetblue;
+}
+
+#b4 {
+  background: coral;
+}
+
+#b5 {
+  background: crimson;
+}
+
+#b6 {
+  background: forestgreen;
+}
+
+#b7 {
+  background: darkorchid;
+}
+
+#b8 {
+  background: hotpink;
+}
+
+#b9 {
+  background: indigo;
+}
+
+#b10 {
+  background: dodgerblue;
 }
 
 /* HERO MAIN IMAGE STYLES */
