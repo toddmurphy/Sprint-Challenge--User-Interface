@@ -261,6 +261,10 @@ nav a {
   border-bottom: 1px dashed black;
 }
 
+.line-space {
+  padding-bottom: 20px;
+}
+
 .image-spacing {
   margin-bottom: 20px;
 }
